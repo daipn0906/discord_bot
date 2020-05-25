@@ -1,0 +1,11 @@
+{
+    "name": "astesia",
+    "version": "1.0.0",
+    "description": "She is the boundless starry skies, as well as your personal alarm clock.\nAstesia, Guard of Rhodes Island, has summoned the power of the stars to hold the line.",
+    "main": "bot.js",
+    "author": "AKattsukki",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.2.1"
+    }
+}
